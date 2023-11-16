@@ -15,7 +15,7 @@ const NavBar = () => {
         <li>Blog</li>
         <li>FAQ</li>
       </ul>
-      <img src={logo} alt="" className="w-[73px] h-[44px]" />
+      <img src={logo} alt="" className="w-[73px] h-[44px] cursor-pointer" />
       <ul className=" flex-row item-center justify-center gap-[30px] md:flex hidden">
         <li>About Us</li>
         <li>Contact</li>
