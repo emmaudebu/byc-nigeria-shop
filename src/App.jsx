@@ -4,10 +4,10 @@ import NavBar from "./Components/NavBar";
 
 function App() {
   return (
-    <>
+    <main className=" max-w-screen-xl mx-auto">
       <NavBar />
       <Hero />
-    </>
+    </main>
   );
 }
 export default App;
