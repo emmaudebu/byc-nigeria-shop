@@ -52,7 +52,7 @@ const Hero = () => {
         <p className="text-center font-[700]  text-2xl md:text-[33px] my-[70px]">
           Checkout BYC New Arrivals
         </p>
-        <section className=" flex flex-col md:flex-row justify-between gap-10 mx-[43px]">
+        <section className=" flex flex-col md:flex-row justify-between gap-2 mx-[43px]">
           <section className="  bg-[#f1f1f1]">
             <img src={NewArrival1} alt="" />
             <div className="bg-white py-10">
